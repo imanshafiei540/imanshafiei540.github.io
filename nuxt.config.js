@@ -22,7 +22,7 @@ export default {
             },
             {
                 property: 'og:image',
-                content: 'https://imanshafiei540.github.io/img/imanshafiei.jpeg'
+                content: '/imanshafiei.jpeg'
             },
         ],
         link: [{
