@@ -7,7 +7,7 @@ export default {
 
     // Global page headers (https://go.nuxtjs.dev/config-head)
     head: {
-        title: 'Iman Shafiei Alavijeh Resume | Blog',
+        title: 'Iman Shafiei Alavijeh',
         meta: [{
                 charset: 'utf-8'
             },
@@ -51,18 +51,17 @@ export default {
         '@nuxt/content'
     ],
     bootstrapVue: {
-        bootstrapCSS: true, // Or `css: false`
-        bootstrapVueCSS: true, // Or `bvCSS: false`
+        bootstrapCSS: true,
+        bootstrapVueCSS: true,
         icons: false,
         componentPlugins: [
             'LayoutPlugin',
             'ToastPlugin',
-            'ModalPlugin',
         ],
-        components: ['BContainer', 'BRow', 'BCol', 'BFormInput', 'BButton', 'BModal', 'BImgLazy', 'BNavbar', 'BNavbarNav', 'BNavbarBrand',
-            'BNavItem', 'BNavbarToggle', 'BNav', 'BNavText', 'BCollapse', 'BIconPen', 'BLink'
+        components: ['BContainer', 'BRow', 'BCol', 'BImgLazy', 'BNavbar', 'BNavbarNav', 'BNavbarBrand',
+            'BNavItem', 'BNavbarToggle', 'BNav', 'BNavText', 'BCollapse', 'BLink'
         ],
-        directives: ['VBModal', 'VBToggle'],
+        directives: ['VBToggle'],
     },
 
     content: {

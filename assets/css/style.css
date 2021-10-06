@@ -169,6 +169,20 @@
      margin-bottom: 40px;
  }
 
+ .skillBadge {
+     display: inline-block;
+     position: relative;
+     font-size: 14px;
+     font-weight: 500;
+     margin-top: 0px;
+     color: #fff;
+     padding: 5px 10px;
+     line-height: 23px;
+     border: 2px solid #7066ff;
+     border-radius: 30px;
+     margin-right: 5px;
+ }
+
  /*=========================================================
 	NAVIGATION
 ===========================================================*/
@@ -1104,6 +1118,7 @@
  .footer-newsletter form>.newsletter-btn:hover {
      opacity: 0.9;
  }
+
  /*=========================================================
 	RESPONSIVE
 ===========================================================*/
