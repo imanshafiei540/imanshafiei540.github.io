@@ -19,7 +19,11 @@ export default {
                 hid: 'description',
                 name: 'description',
                 content: 'A self-organized and creative technical person with more than four years of experience, able to create a product with all complexity in technical and management sections.'
-            }
+            },
+            {
+                property: 'og:image',
+                content: '/imanshafiei.jpeg'
+            },
         ],
         link: [{
             rel: 'icon',
