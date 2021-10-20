@@ -78,6 +78,14 @@
                                                                 <InterestIcon class="width-25" />
                                                             </div>
                                                             <div class="ci-text">
+                                                                <h5 class="font-weight-normal">Natural Language Processing</h5>
+                                                            </div>
+                                                        </div>
+                                                        <div class="info-block-w-icon">
+                                                            <div class="ci-icon">
+                                                                <InterestIcon class="width-25" />
+                                                            </div>
+                                                            <div class="ci-text">
                                                                 <h5 class="font-weight-normal">Software Architecture
                                                                 </h5>
                                                             </div>
