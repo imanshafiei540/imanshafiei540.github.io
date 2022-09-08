@@ -8,18 +8,21 @@
                     <div class="page-subtitle">
                         <h4>More than 5 Years of Experience</h4>
                     </div>
-                    <p>I'm a self-organized and creative technical person with more than four years of experience, able
-                        to create a product with all its complexity in technical and management sections. Currently, I'm
-                        a lead developer at TechMockInterview company and working on a platform that provides
-                        professional interviewers from big companies like Google, Facebook to candidates who have dreams
-                        about working in those companies. Also, I'm a technical leader at Shahrnameh, a new social media
-                        base on a map, and people can post their stories into the plaques of the city. I love working in
-                        those companies. Teams are so creative, and challenges are everywhere, and I, as a software
-                        engineer, can improve my skills and experiences.</p>
                     <p>
-                        In my studying life as a master's student, I'm working on applications of machine learning in
-                        life cycles of developing software, for example, finding technical debts in the comments of
-                        developers or finding maintenance tasks from reviews and comments of people.</p>
+                        I'm a self-organized and creative technical
+                        person with more than four years of experience,
+                        able to create a product with all its complexity
+                        in technical and management sections. Currently,
+                        I'm a software developer at TechMockInterview
+                        company and working on a platform that provides
+                        professional interviewers from big companies
+                        like Google, and Facebook to candidates who have
+                        dreams about working in those companies.
+                        Previously, I was a software engineer at
+                        SerendyCity, a new social media base on a map,
+                        where people can post their stories on the
+                        plaques of the city.
+                    </p>
                 </div>
 
                 <div id="content" class="page-content site-content single-post" role="main">
@@ -104,70 +107,73 @@
 
                                                     <div id="timeline-5fca86baa792b" class="timeline clearfix">
                                                         <div class="timeline-item clearfix">
-                                                            <h5 class="item-period current">2020 - Current</h5>
+                                                            <h5 class="item-period current">Apr 2020 - Current</h5>
                                                             <span class="item-company">TechMockInterview (Canada)</span>
-                                                            <h4 class="item-title">Lead Software Developer</h4>
+                                                            <h4 class="item-title">Software Developer</h4>
                                                             <ul class="ul-disc-style">
-                                                                <li>Working with AWS services which are EC2, Cloud9,
-                                                                    Cognito, CloudFront, IAM, SES</li>
-                                                                <li>Managing a technical team contains 2 developers</li>
-                                                                <li>Working with Nuxt.js for Front-End and DRF for
-                                                                    Back-End</li>
-                                                                <li>Migrating from monolithic approach to micro-service
-                                                                    architecture</li>
+                                                                <li>Designed a scalable architecture using AWS services
+                                                                    such as Cognito, RDS, ECR, S3, EC2, Code Pipeline,
+                                                                    and Cloud Front.</li>
+                                                                <li>Migrated from a monolithic system to
+                                                                    service-oriented architecture to improve scalability
+                                                                    and better management of the code.</li>
+                                                                <li>Integrated the service with third-party scheduling
+                                                                    and payment services such as Acuity Scheduling and
+                                                                    PayPal for reducing the cost and time of
+                                                                    development.</li>
                                                             </ul>
                                                         </div>
                                                         <div class="timeline-item clearfix">
-                                                            <h5 class="item-period ">2021 - Current</h5>
-                                                            <span class="item-company">Shahrnameh (Iran)</span>
-                                                            <h4 class="item-title">Technical Lead</h4>
+                                                            <h5 class="item-period ">Jan 2021 - Aug 2022</h5>
+                                                            <span class="item-company">SerendyCity (Iran)</span>
+                                                            <h4 class="item-title">Software Engineer</h4>
                                                             <ul class="ul-disc-style ">
-                                                                <li>Managing a team of 2 developers</li>
-                                                                <li>Using Service-Oriented architecture</li>
+                                                                <li>Designed and implemented a scalable map service with
+                                                                    PostGIS which could handle serving GeoJson files in
+                                                                    Mapbox.</li>
+                                                                <li>Implemented microservice architecture that enabled
+                                                                    the technical team to handle and scale the services
+                                                                    better with the help of AWS services.</li>
                                                                 <li>Managing AWS services like EC2, Route66, SES, S3
                                                                 </li>
-                                                                <li>Working with PostGIS for our map services</li>
-                                                                <li>Using Nuxt.js for Front-End and Flask for Back-End
-                                                                    and MongoDB for database</li>
-                                                                <li>The platform is a social media service based on the
-                                                                    map</li>
+                                                                <li>Acquired in-depth knowledge of scaling, automation,
+                                                                    and handling a considerable amount of data by
+                                                                    developing map-based social media.</li>
                                                             </ul>
                                                         </div>
                                                         <div class="timeline-item clearfix">
-                                                            <h5 class="item-period ">2020 - 2021</h5>
+                                                            <h5 class="item-period ">Jan 2019 - Dec 2020</h5>
                                                             <span class="item-company">Diagram Studio (Iran)</span>
-                                                            <h4 class="item-title">Technical Lead</h4>
+                                                            <h4 class="item-title">Full-stack Developer</h4>
                                                             <ul class="ul-disc-style ">
-                                                                <li>Managing a team of 6 people with the Agile manifesto
+                                                                <li>Led a team of 6 developers with the Agile manifesto
+                                                                    to increase efficiency on the development of the
+                                                                    first online ERP application in Iran for managing
+                                                                    the salon, reservations, accounting, and employees
+                                                                    of cafes and restaurants.
                                                                 </li>
-                                                                <li>Working on 4 different projects as a technical lead
+                                                                <li>Used Domain Driven Design to gain a more
+                                                                    comprehensive understanding of the system before
+                                                                    implementation and break down a complex domain into
+                                                                    multiple simple ones.
                                                                 </li>
-                                                                <li>Design & Analysis the new systems with
-                                                                    Object-Oriented approach</li>
-                                                                <li>Using Domain-Driven design (DDD) in one of the
-                                                                    projects</li>
+                                                                <li>Handled the concern of availability of the service,
+                                                                    one of the most important concern of users, by
+                                                                    developing an offline mode with the ability to sync
+                                                                    with the online one.</li>
                                                             </ul>
                                                         </div>
                                                         <div class="timeline-item clearfix">
-                                                            <h5 class="item-period ">2019 - 2020</h5>
-                                                            <span class="item-company">Medrick (Iran)</span>
-                                                            <h4 class="item-title">Technical Lead</h4>
-                                                            <ul class="ul-disc-style ">
-                                                                <li>Improved my skills as a scrum master</li>
-                                                                <li>Improved my management skills by handling artists,
-                                                                    designers and developers in 3
-                                                                    different projects</li>
-                                                                <li>Improved my soft skills</li>
-                                                            </ul>
-                                                        </div>
-                                                        <div class="timeline-item clearfix">
-                                                            <h5 class="item-period ">2017 - 2018</h5>
+                                                            <h5 class="item-period ">Oct 2017 - Apr 2018</h5>
                                                             <span class="item-company">Porsline (Iran)</span>
                                                             <h4 class="item-title">Full-Stack Developer</h4>
                                                             <ul class="ul-disc-style ">
-                                                                <li>Working with AngularJS and Django Rest Framework
+                                                                <li>Developed a robust service with the ability to
+                                                                    handle hundreds of requests.
                                                                 </li>
-                                                                <li>Working with a team of 4 developers</li>
+                                                                <li>Used REST principles for implementing API services
+                                                                    to provide better support for 3rd
+                                                                    parties.</li>
                                                             </ul>
                                                         </div>
                                                     </div>
@@ -189,33 +195,11 @@
 
                                         <div class="row">
 
-
-                                            <div class=" col-xs-12 col-sm-6 ">
-                                                <div id="col_inner_id-5fca86baa8809" class="fw-col-inner"
-                                                    data-paddings="0px 0px 0px 0px">
-                                                    <div class="block-title">
-                                                        <h2>Research Skills</h2>
-                                                    </div>
-                                                    <div>
-                                                        <h5 class="skillBadge">Applied Machine Learning</h5>
-                                                        <h5 class="skillBadge">NLP</h5>
-                                                        <h5 class="skillBadge">Pandas</h5>
-                                                        <h5 class="skillBadge">NumPy</h5>
-                                                        <h5 class="skillBadge">Cloud Computing</h5>
-                                                        <h5 class="skillBadge">Information
-                                                            Retrieval</h5>
-                                                        <h5 class="skillBadge">Software Engineering
-                                                            Concepts</h5>
-                                                    </div>
-                                                </div>
-                                            </div>
-
-
                                             <div class=" col-xs-12 col-sm-6 ">
                                                 <div id="col_inner_id-5fca86baa8bca" class="fw-col-inner"
                                                     data-paddings="0px 0px 0px 0px">
                                                     <div class="block-title">
-                                                        <h2>Development Skills</h2>
+                                                        <h2>Skills</h2>
                                                     </div>
                                                     <div>
                                                         <h5 class="skillBadge">Python</h5>
@@ -229,8 +213,19 @@
                                                         <h5 class="skillBadge">Microservices</h5>
                                                         <h5 class="skillBadge">Domain-Driven Design</h5>
                                                         <h5 class="skillBadge">MongoDB</h5>
-                                                        <h5 class="skillBadge">Postgres</h5>
+                                                        <h5 class="skillBadge">PostgreSQL</h5>
                                                         <h5 class="skillBadge">HTML5 & CSS3 </h5>
+                                                        <h5 class="skillBadge">Amazon EC2</h5>
+                                                        <h5 class="skillBadge">AWS CodePipeline</h5>
+                                                        <h5 class="skillBadge">AWS CodeBuild</h5>
+                                                        <h5 class="skillBadge">AWS CodeDeploy</h5>
+                                                        <h5 class="skillBadge">Amazon S3</h5>
+                                                        <h5 class="skillBadge">Amazon CloudFront</h5>
+                                                        <h5 class="skillBadge">Amazon ECR</h5>
+                                                        <h5 class="skillBadge">AWS Cloud9</h5>
+                                                        <h5 class="skillBadge">Docker</h5>
+                                                        <h5 class="skillBadge">GIT</h5>
+                                                        <h5 class="skillBadge">Linux</h5>
                                                     </div>
                                                 </div>
                                             </div>

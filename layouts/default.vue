@@ -35,13 +35,13 @@
                         <a href="https://linkedin.com/in/imanshafiei540" target="_blank">LinkedIn</a>
                     </li>
                     <li>
-                        <a href="https://stackoverflow.com/story/imanshafiei" target="_blank">Stack Overflow</a>
+                        <a href="https://stackoverflow.com/users/6595551/iman-shafiei" target="_blank">Stack Overflow</a>
                     </li>
                 </ul>
             </div>
 
             <div class="footer-copyrights">
-                <p>© 2021 Developed with caffein.</p>
+                <p>© 2022 Developed with caffeine.</p>
             </div>
         </footer>
     </div>
