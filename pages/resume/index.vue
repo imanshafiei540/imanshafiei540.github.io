@@ -43,19 +43,6 @@
 
                                                     <div id="timeline-5fca86baa7655" class="timeline clearfix">
                                                         <div class="timeline-item clearfix">
-                                                            <h5 class="item-period ">2020 - Current</h5>
-                                                            <span class="item-company">Islamic Azad University Science
-                                                                and Research Branch, Tehran, Iran</span>
-                                                            <h4 class="item-title">M.Sc. in Computer Software
-                                                                Engineering</h4>
-                                                            <ul class="ul-disc-style">
-                                                                <li>GPA (first two semester): 18.39/20</li>
-                                                                <li>Thesis Title: Working on Self-Admitted Technical
-                                                                    Debt detection and effort
-                                                                    estimation with machine learning approaches</li>
-                                                            </ul>
-                                                        </div>
-                                                        <div class="timeline-item clearfix">
                                                             <h5 class="item-period ">2015 - 2020</h5>
                                                             <span class="item-company">Iran University of Science and
                                                                 Technology, Tehran, Iran</span>

@@ -40,7 +40,7 @@
                                                                         life cycles of developing software.
                                                                     </p>
                                                                     <div class="home-buttons">
-                                                                        <a href="/files/ImanShafieiCV.pdf"
+                                                                        <a href="/files/ImanShafieiAlavijehResume.pdf"
                                                                             target="_blank"
                                                                             class="btn btn-primary">Download
                                                                             CV</a>
@@ -118,19 +118,6 @@
                                                         <h2>Education</h2>
                                                     </div>
                                                     <div class="info-list-w-icon">
-                                                        <div class="info-block-w-icon">
-                                                            <div class="ci-icon">
-                                                                <UniIcon class="width-25" />
-                                                            </div>
-                                                            <div class="ci-text">
-                                                                <div class="d-flex justify-content-between">
-                                                                    <h4>M.Sc. in Computer Software Engineering</h4>
-                                                                    <span>Sep 2020 – Present</span>
-                                                                </div>
-                                                                <p>Islamic Azad University Science and Research Branch,
-                                                                    Tehran, Iran</p>
-                                                            </div>
-                                                        </div>
                                                         <div class="info-block-w-icon mt-3">
                                                             <div class="ci-icon">
                                                                 <UniIcon class="width-25" />
